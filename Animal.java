@@ -1,6 +1,6 @@
 abstract class Animal{
-    //assinatura do metodo
+    //assinatura do método
 
     public abstract void fazerBarulho();
-    
+
 }
